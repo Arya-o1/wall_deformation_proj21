@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+the velocity of the bullet is too high that
+somethimes the collision dedction is not working
+
